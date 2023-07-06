@@ -58,12 +58,3 @@ This synthetic dataset contains demographic and clinical data used to train a cl
 ## Coding style
 
 We use Goolge Python Style Guide. Please refer to [this link](https://google.github.io/styleguide/pyguide.html) for more details.
-
-## Acknowledgement
-
-Mentors:
-
-- Peikun Guo
-- Khidijia Zanna
-- Akane Sano
-- ChatGPT
