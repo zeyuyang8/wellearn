@@ -1,0 +1,1 @@
+python scripts/pipeline.py --config exp/depression/config.toml --train --sample --eval

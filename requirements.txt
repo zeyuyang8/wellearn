@@ -1,0 +1,27 @@
+ipykernel==6.23.1
+jupyterlab==4.0.0
+matplotlib==3.7.1
+pandas==2.0.1
+scikit-learn==1.0.2
+statsmodels==0.14.0
+fairlearn==0.8.0
+dill==0.3.6
+xgboost==1.7.5
+catboost==1.1.1
+torch==1.13.1
+torchvision==0.14.1
+
+# tab-ddpm
+category-encoders==2.3.0
+dython==0.5.1
+icecream==2.1.2
+libzero==0.0.8
+numpy==1.21.4
+optuna==2.10.1
+pyarrow==6.0.0
+rtdl==0.0.9
+scipy==1.7.2
+skorch==0.11.0
+tomli-w==0.4.0
+tomli==1.2.2
+tqdm==4.62.3

@@ -1,0 +1,10 @@
+{
+    "task_type": "binclass",
+    "name": "depression",
+    "id": "depression--id",
+    "train_size": 8800,
+    "val_size": 1100,
+    "test_size": 1100,
+    "n_num_features": 14,
+    "n_cat_features": 4
+}
