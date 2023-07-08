@@ -448,7 +448,7 @@ class MLPDiffusion(nn.Module):
             nn.Linear(dim_t, dim_t)
         )
     
-    def forward(self, x, timesteps, y=None):
+    def forward(self, x, timesteps, y=None, senstive=None):
         emb = self.time_embed(timestep_embedding(timesteps, self.dim_t))
         if self.is_y_cond and y is not None:
             if self.num_classes > 0:
